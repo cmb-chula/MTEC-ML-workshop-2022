@@ -35,6 +35,10 @@ Lectures and workshop contents are in Thai but all slides are in English.
   - Nanoinformatics and Artificial Intelligence
   - National Nanotechnology Center
   - National Science and Technology Development Agency
+
 #### TA ที่ขยันขันแข็ง
 * Raksit Raksasat, MEng
 * Chawan Piansaddhayanon, BEng
+
+#### ผู้สนับสนุนการอบรม
+กิจกรรมนี้เป็นส่วนหนึ่งของโครงการพัฒนาศักยภาพและทรัพยากรมนุษย์ในการใช้ Materials Informatics เพื่อขับเคลื่อนการวิจัยด้านวัสดุศาสตร์และวิศวกรรมผ่านความร่วมมือระดับพหุภาคี
