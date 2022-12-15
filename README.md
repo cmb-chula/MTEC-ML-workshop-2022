@@ -6,10 +6,14 @@ Lectures and workshop contents are in Thai but all slides are in English.
 
 บรรยายเป็นภาษาไทย แต่สไลด์เป็นภาษาอังกฤษเพื่อรักษาความถูกต้องของการใช้คำศัพท์ทางเทคนิค
 
-## การจัดวางไฟล์ในหน้านี้
-* 
+### การจัดวางไฟล์ในหน้านี้
+* ไฟล์สไลด์ในรูปแบบ pdf อยู่ใน fodler ชื่อ slides โดยจะเรียงลำดับไฟล์ตามลำดับของวีดีโอในส่วนของเวิร์คชอป
+  * สำหรับผู้ที่สนใจเฉพาะส่วนของการบรรยายหลักการพื้นฐาน สามารถโหลดเฉพาะสไลด์ที่สนใจได้
+* ไฟล์ notebook ภาษาไพทอน รวมทั้งชุดข้อมูลที่จำเป็น อยู่ใน folder ชื่อ notebooks
+  * ชุดข้อมูลบางส่วนนำมาจาก Kaggle Dataset และบางส่วนนำมาจากผู้ร่วมงาน
+  * ลิขสิทธิ์ของชุดข้อมูลขึ้นอยู่กับเจ้าของข้อมูลทั้งหมด
 
-## เนื้อหาการบรรยาย
+### เนื้อหาการบรรยาย
 * ความรู้และหลักการด้านการเรียนรู้ของเครื่อง (unsupervised, supervised, and deep learning)
 * เทคนิคการลดมิติและประโยชน์ในการใช้งาน
 * โมเดลตระกูลเส้นตรง โมเดลตระกูลต้นไม้ และโมเดลเครือข่ายประสาทเทียม
@@ -17,12 +21,12 @@ Lectures and workshop contents are in Thai but all slides are in English.
 * คำสั่งภาษาไพทอนที่เกี่ยวข้อง และตัวอย่างการใช้งาน
 * จุดสำคัญในการออกแบบโครงการทางด้านการเรียนรู้ของเครื่อง และคำแนะนำต่างๆ
 
-## วีดีโอที่อัดไว้
+### วีดีโอที่อัดไว้
 * ส่วนของการบรรยาย เน้นที่หลักการพื้นฐาน: https://www.youtube.com/playlist?list=PLJIJClalm2xNwyA2P2k6HRBxmWRW422Ex
 * ส่วนของเวิร์คชอป เน้นที่คำสั่งภาษาไพทอนและตัวอย่างการใช้งาน: https://www.youtube.com/playlist?list=PLJIJClalm2xOsbu69R_yRG3RPVU3gIQKa
 
-## ขอบคุณทีมงาน
-### ผู้สอนหลัก
+### ขอบคุณทีมงาน
+#### ผู้สอนหลัก
 * Sira Sriswasdi, PhD
   - Center of Excellence in Computational Molecular Biology
   - Center for Artificial Intelligence in Medicine
@@ -31,6 +35,6 @@ Lectures and workshop contents are in Thai but all slides are in English.
   - Nanoinformatics and Artificial Intelligence
   - National Nanotechnology Center
   - National Science and Technology Development Agency
-### TA ที่ขยันขันแข็ง
+#### TA ที่ขยันขันแข็ง
 * Raksit Raksasat, MEng
 * Chawan Piansaddhayanon, BEng
